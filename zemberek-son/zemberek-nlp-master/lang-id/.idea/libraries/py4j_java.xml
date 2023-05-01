@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="py4j-java">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/py4j-java" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/py4j-java/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/py4j-java/py4j/py4j-java/src/main/java" />
+      <root url="file://$PROJECT_DIR$/py4j-java/py4j/py4j-java/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/py4j-java" recursive="false" />
+  </library>
+</component>

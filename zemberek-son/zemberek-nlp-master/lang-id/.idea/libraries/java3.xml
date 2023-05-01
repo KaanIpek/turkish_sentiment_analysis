@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java3">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../normalization/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../normalization/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

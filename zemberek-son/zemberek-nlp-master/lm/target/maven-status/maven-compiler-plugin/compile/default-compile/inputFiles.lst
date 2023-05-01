@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\compression\InMemoryBigByteArray.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\compression\BinaryFloatFileReader.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\compression\SmoothLm.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\compression\ChunkingNGramReader.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\DummyLanguageModel.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\backoff\SimpleBackoffNgramModel.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\NgramLanguageModel.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\BaseLanguageModel.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\compression\GramDataArray.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\compression\DataInfo.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\LmVocabulary.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\compression\MultiFileUncompressedLm.java
+C:\Users\LENOVO\Desktop\zemberek-nlp-master\lm\src\main\java\zemberek\lm\compression\UncompressedToSmoothLmConverter.java

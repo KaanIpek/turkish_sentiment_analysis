@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/py4j-0.10.9.5/doc/_static/javadoc" />
+      <root url="file://$PROJECT_DIR$/py4j-0.10.9.5/py4j-java/javadoc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

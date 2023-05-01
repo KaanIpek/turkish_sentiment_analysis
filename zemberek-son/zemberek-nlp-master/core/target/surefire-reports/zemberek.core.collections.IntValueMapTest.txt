@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: zemberek.core.collections.IntValueMapTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 1.717 sec
