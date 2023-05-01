@@ -64,7 +64,7 @@ def train_SVC_model(data, labels):
     print(f"Accuracy: {accuracy}")
     print(f"F1:: {f1}")
     return model
-dataset = dataset.fillna('negatif')
+dataset = dataset.fillna(-1)
 X = dataset['Tweet']
 y = labels
 SVC_model = train_SVC_model(X, y)
